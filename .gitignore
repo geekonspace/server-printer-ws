@@ -1,2 +1,4 @@
 .idea/
 server-printer-ws.iml
+out/
+target/
